@@ -1,9 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Faizal Manla
-=====================================================================================================================================
+<div align="center">
 
-Developer,Student,
-------------------
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Faizal Manla
 
+</div>
+
+<h3 align="center">A passionate Software Developer from Thailand</h3>
+
+<img align="right" alt="img" width="400" src="https://github.com/user-attachments/assets/15d81be1-afbd-4003-8b66-f8ad99a21c3c">
 making web developer and nerver stop learning
 
 * 🌍  I'm based in Bangkok
