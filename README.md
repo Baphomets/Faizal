@@ -6,6 +6,10 @@
 
 <h3 align="center">A passionate Software Developer from Thailand</h3>
 
+<div align="left">
+   <img src="https://komarev.com/ghpvc/?username=madnoor-2512&style=flat-square&color=blue" alt="account counter" />
+</div>
+
 <img align="right" alt="img" width="400" src="https://github.com/user-attachments/assets/15d81be1-afbd-4003-8b66-f8ad99a21c3c">
 making web developer and nerver stop learning
 
